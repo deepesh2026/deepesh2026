@@ -11,7 +11,6 @@
 ![Cloud Infrastructure](https://img.shields.io/badge/☁%20Cloud%20Infrastructure-0052CC?style=flat-square&logoColor=white)
 ![FinOps](https://img.shields.io/badge/⚡%20FinOps-0a7ea4?style=flat-square&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/🔐%20Cybersecurity-1a1a2e?style=flat-square&logoColor=white)
-![Blockchain](https://img.shields.io/badge/⛓%20Blockchain-2d2d2d?style=flat-square&logoColor=white)
 
 </div>
 
@@ -21,7 +20,7 @@
 
 | | |
 |---|---|
-| **🟦 CoreStack** | **Cloud Infrastructure Engineer** · Full-time · 2025 – Present |
+| **🟦 CoreStack** | **Customer Success Management** · Intern · 2026 – Present |
 
 > Building multi-cloud governance solutions for enterprises across **AWS, Azure & GCP** — focused on **FinOps**, cost optimization, infrastructure automation, and AI-powered cloud operations at scale.
 
@@ -31,7 +30,7 @@
 
 ```yaml
 name     : Deepesh Haldankar
-role     : Cloud Infrastructure Engineer @ CoreStack
+role     : Customer Success Management @ CoreStack
 location : India 🇮🇳
 education: Computer Science Student
 
@@ -40,7 +39,7 @@ focus:
   - Cloud Cost Optimization & FinOps
   - Full Stack Web Development
   - Cybersecurity & Ethical Hacking
-  - Blockchain & Smart Contracts
+ 
 
 fun_fact : "The best cloud is the one you actually control 💸"
 ```
@@ -69,7 +68,6 @@ fun_fact : "The best cloud is the one you actually control 💸"
 ### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -90,7 +88,6 @@ fun_fact : "The best cloud is the one you actually control 💸"
 ```
 🔷  Cloud Cost Governance     ──  Automating FinOps pipelines @ CoreStack
 🌐  Full Stack Web Projects   ──  Scalable React + Node.js applications
-⛓️  Smart Contract Dev         ──  DeFi protocols using Solidity on Ethereum
 🔐  Cybersecurity Labs         ──  CTF challenges & cloud security research
 📦  Cloud Deployment          ──  Mastering Docker, Kubernetes & IaC
 ```
