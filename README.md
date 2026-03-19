@@ -129,7 +129,7 @@ fun_fact : "The best cloud is the one you actually control 💸"
 
 <br/><br/>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=09deepesh&icon=0&color=6)
+![Profile Views](https://visitcount.itsvg.in/api?id=deepesh2026&icon=0&color=6)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052CC,50:0a2a4a,100:0d1b2a&height=120&section=footer" />
 
