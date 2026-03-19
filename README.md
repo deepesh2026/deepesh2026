@@ -98,13 +98,13 @@ fun_fact : "The best cloud is the one you actually control 💸"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=09deepesh&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=deepesh2026&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=09deepesh&theme=tokyonight&hide_border=true&layout=compact" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh2026&theme=tokyonight&hide_border=true&layout=compact" height="160"/>
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=09deepesh&theme=tokyonight&hide_border=true" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=deepesh2026&theme=tokyonight&hide_border=true" />
 
 </div>
 
