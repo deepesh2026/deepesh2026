@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:0a2a4a,100:0052CC&height=180&section=header&text=Deepesh%20Haldankar&fontSize=48&fontColor=e8f4fd&animation=fadeIn&fontAlignY=40&desc=Cloud%20Infrastructure%20Engineer%20%40%20CoreStack%20%7C%20Full%20Stack%20Developer%20%7C%20Cybersecurity&descAlignY=62&descSize=14&descColor=7bafd4" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:0a2a4a,100:0052CC&height=180&section=header&text=Deepesh%20Haldankar&fontSize=48&fontColor=e8f4fd&animation=fadeIn&fontAlignY=40&desc=Cloud%20Engineer%20%40%20CoreStack%20%7C%20Full%20Stack%20Developer%20%7C%20Cybersecurity&descAlignY=62&descSize=14&descColor=7bafd4" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Cloud Infrastructure](https://img.shields.io/badge/☁%20Cloud%20Infrastructure-0052CC?style=flat-square&logoColor=white)
+![Cloud](https://img.shields.io/badge/☁%20Cloud%20Infrastructure-0052CC?style=flat-square&logoColor=white)
 ![FinOps](https://img.shields.io/badge/⚡%20FinOps-0a7ea4?style=flat-square&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/🔐%20Cybersecurity-1a1a2e?style=flat-square&logoColor=white)
 
