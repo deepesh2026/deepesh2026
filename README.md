@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Cloud](https://img.shields.io/badge/☁%20Cloud%20Infrastructure-0052CC?style=flat-square&logoColor=white)
+![Cloud](https://img.shields.io/badge/☁%20Cloud-0052CC?style=flat-square&logoColor=white)
 ![FinOps](https://img.shields.io/badge/⚡%20FinOps-0a7ea4?style=flat-square&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/🔐%20Cybersecurity-1a1a2e?style=flat-square&logoColor=white)
 
