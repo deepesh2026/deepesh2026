@@ -16,8 +16,6 @@
 
 Computer Science student based in India, currently on the Customer Success team at **CoreStack**, where I work on multi-cloud governance across **AWS, Azure and GCP** — cost optimization, FinOps reporting, and helping enterprise teams actually understand where their cloud spend goes.
 
-Outside of work I build full-stack web apps and spend an unreasonable amount of time on CTFs and cloud security research.
-
 > *"The best cloud is the one you actually control."* 💸
 
 ---
