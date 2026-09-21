@@ -1,81 +1,124 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:0a2a4a,100:0052CC&height=190&section=header&text=Deepesh%20Haldankar&fontSize=48&fontColor=e8f4fd&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20FinOps%20at%20CoreStack%20%C2%B7%20Full%20Stack%20%C2%B7%20Security&descAlignY=60&descSize=16&descColor=7bafd4" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:0a2a4a,100:0052CC&height=180&section=header&text=Deepesh%20Haldankar&fontSize=48&fontColor=e8f4fd&animation=fadeIn&fontAlignY=40&desc=Cloud%20Engineer%20%40%20CoreStack%20%7C%20Full%20Stack%20Developer%20%7C%20Cybersecurity&descAlignY=62&descSize=14&descColor=7bafd4" />
 
-<br/>
+</div>
+
+---
+
+<div align="center">
+
+![Cloud](https://img.shields.io/badge/☁%20Cloud-0052CC?style=flat-square&logoColor=white)
+![FinOps](https://img.shields.io/badge/⚡%20FinOps-0a7ea4?style=flat-square&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/🔐%20Cybersecurity-1a1a2e?style=flat-square&logoColor=white)
+![DevOps](https://img.shields.io/badge/💻%20DevOps-1a1a2e?style=flat-square&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Experience
+
+| | |
+|---|---|
+| **🟦 CoreStack** | **Customer Success Management** · Intern · 2026 – Present |
+
+> Building multi-cloud governance solutions for enterprises across **AWS, Azure & GCP** — focused on **FinOps**, cost optimization, infrastructure automation, and AI-powered cloud operations at scale.
+
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+name     : Deepesh Haldankar
+role     : Customer Success Management @ CoreStack
+location : India 🇮🇳
+education: Computer Science Student
+
+focus:
+  - Multi-Cloud Governance (AWS · Azure · GCP)
+  - Cloud Cost Optimization & FinOps
+  - Full Stack Web Development
+  - Cybersecurity & Ethical Hacking
+ 
+
+fun_fact : "The best cloud is the one you actually control 💸"
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![CoreStack](https://img.shields.io/badge/CoreStack-0052CC?style=for-the-badge&logo=cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+## 🚀 Currently Working On
+
+```
+🔷  Cloud Cost Governance     ──  Automating FinOps pipelines @ CoreStack
+🌐  Full Stack Web Projects   ──  Scalable React + Node.js applications
+🔐  Cybersecurity Labs         ──  CTF challenges & cloud security research
+📦  Cloud Deployment          ──  Mastering Docker, Kubernetes & IaC
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=deepesh2026&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh2026&theme=tokyonight&hide_border=true&layout=compact" height="160"/>
+
+<br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=deepesh2026&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DeepeshHaldankar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/09deepesh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepeshhaldankar05@gmail.com)
-
-</div>
-
----
-
-## About
-
-Computer Science student based in India, currently on the Customer Success team at **CoreStack**, where I work on multi-cloud governance across **AWS, Azure and GCP** — cost optimization, FinOps reporting, and helping enterprise teams actually understand where their cloud spend goes.
-
-> *"The best cloud is the one you actually control."* 💸
-
----
-
-## What I'm working on
-
-- **FinOps automation** — building cost-governance workflows and spend reports for multi-cloud environments
-- **Full stack** — React + Node projects, with Flask when Python is the better fit
-- **Security** — CTF challenges and cloud misconfiguration research
-- **Infrastructure** — going deeper on Docker, Kubernetes and IaC
-
----
-
-## Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[Project Name](#)** | One line on the problem it solves. | React · Node · MongoDB |
-| **[Project Name](#)** | One line on the problem it solves. | Python · Flask |
-| **[Project Name](#)** | One line on the problem it solves. | AWS · Docker |
-
-<sub>↑ Replace these with three real repos — this section matters more than everything below it.</sub>
-
----
-
-## Tech
-
-**Cloud & Infra**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Web & Data**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=09deepesh&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=09deepesh&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165"/>
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/DeepeshHaldankar)
 
 </div>
 
@@ -83,7 +126,11 @@ Computer Science student based in India, currently on the Customer Success team 
 
 <div align="center">
 
-**Open to conversations about cloud, FinOps and security** — [say hi](mailto:deepeshhaldankar05@gmail.com).
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/><br/>
+
+![Profile Views](https://visitcount.itsvg.in/api?id=deepesh2026&icon=0&color=6)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052CC,50:0a2a4a,100:0d1b2a&height=120&section=footer" />
 
